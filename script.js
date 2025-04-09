@@ -1,11 +1,18 @@
 // dz1
-// {
+// 
 //     let num = 100
 //     console.log(typeof(num))
-// }
+// dz2
 // let myName = "den"
 // let latname = "peria"
 // console.log('my name is', myName, latname);
+
+//dz3
+let a = 100;
+console.log(`Значення змінної: ${a}`);
+
+
+
 // let username = "Den";
 // let password = "secret";
 // let getPassword = "" == password;
