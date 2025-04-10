@@ -1,18 +1,18 @@
-dz1
+// dz1
 
     let num = 100
     console.log(typeof(num))
-dz2
+// dz2
 let myName = "den"
 let latname = "peria"
 console.log('my name is', myName, latname);
 
-dz3
+// dz3
 let a = 100;
 console.log(`Значення змінної: ${a}`);
 
 
-dzoperator
+// dzoperator
 let userPassword = prompt("Give me ur password")
 let username = "Den";
 let password = "secret";
@@ -27,7 +27,7 @@ alert (x + y);
 alert (x - y);
 alert (x / y);
 
-dzloop
+// dzloop
 let num1, num2;
 
 do {
@@ -47,7 +47,7 @@ for (let i = min; i <= max; i++) {
   console.log(i);
 }
 
-dzloop2
+// dzloop2
 let num;
 do {
   num = prompt("Give me the even number");
@@ -55,13 +55,13 @@ do {
 alert("Thx for the num");
 console.log(num);
 
-dzfunc
+// dzfunc
 function divideNum(a, b) {
   return a / b;
 }
 console.log(divideNum(10, 2));
 
-dzfunc2
+// dzfunc2
 
 function calculate() {
   let num1, num2;
@@ -101,7 +101,7 @@ function calculate() {
 }
 calculate();
 
-dzfunc3;
+// dzfunc3;
 
 function factorial(x) {
   if (x === 0) return 1;
